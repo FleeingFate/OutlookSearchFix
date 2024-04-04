@@ -1,4 +1,4 @@
-# OutlookSearchFix
+# Outlook Search Fix 2024
 Fix for Outlook search issues related to March 2024 Microsoft updates
 This Powershell script creates a scheduled task that runs at log on for anyone in the group "Users". This scheduled task adds the two registry values that fix the Outlook search issue that appeared after the March, 2024 round of Microsoft updates
 The observed issue is being unable to fetch any results from searching within the Outlook desktop application
