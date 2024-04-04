@@ -7,4 +7,4 @@ The fix adds the following registry keys via a scheduled task:
 
 "HKCU:\SOFTWARE\Microsoft\Office\16.0\Outlook\Search" -Name "DisableServerAssistedSuggestions" -Value 1 -Type DWORD
 
-This script was created to be able to push out to several endpoints across multiple tenants through N-Able's RMM platform, N-Central
+This script was created to be deployable to several endpoints across multiple tenants through various RMM platforms.
